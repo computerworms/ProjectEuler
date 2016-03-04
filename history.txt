@@ -1,0 +1,28 @@
+    1  ls
+    2  cd Desktop
+    3  ls
+    4  cd Desktop
+    5  ls
+    6  python deneme.py
+    7  ls
+    8  cpp deneme1.cpp
+    9  cd
+   10  #include <iostream.h>
+   11  #include <conio.h>
+   12  char square[10] = {'o','1','2','3','4','5','6','7','8','9'};
+   13  int checkwin();\nvoid board();\n\nint main()\n{\n\tint player = 1,i,choice;\n\tchar mark;\n\tclrscr();\n\tdo
+   14  ls
+   15  cd Desktop/
+   16  ls
+   17  c hello world.c
+   18  ls
+   19  c projecteuler1.c
+   20  gcc projecteuler1.c -o main.out
+   21  ls
+   22  cat main.out
+   23  ls -la
+   24  chmod 777 main.out
+   25  ls -la
+   26  sudo sı
+   27  sudo su
+   28  history
